@@ -1,0 +1,7 @@
+FlightNumber,Airline,Origin,Destination,DepartureTime,ArrivalTime,Duration,Price
+101,Delta Airlines,New York,Los Angeles,2024-12-12 07:00,2024-12-12 10:00,6h,$420
+202,American Airlines,Chicago,Miami,2024-12-12 14:00,2024-12-12 18:00,4h,$200
+303,United Airlines,San Francisco,New York,2024-12-13 10:30,2024-12-13 18:45,5h 15m,$350
+404,Southwest Airlines,Dallas,Chicago,2024-12-12 06:45,2024-12-12 09:15,2h 30m,$150
+505,Alaska Airlines,Seattle,Houston,2024-12-14 11:00,2024-12-14 17:30,4h 30m,$280
+606,JetBlue,Boston,Orlando,2024-12-15 15:20,2024-12-15 18:00,3h 20m,$220
